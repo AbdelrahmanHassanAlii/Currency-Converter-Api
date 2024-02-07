@@ -13,7 +13,7 @@
 This is a sample README.md file for a project. my project is written in (HTML - CSS - JavaScript)
 
 ## Installation
-To install and run this project, follow these steps:
+To install and run this project, follow these steps :
 
 1. Clone the repository to your local machine.
 
